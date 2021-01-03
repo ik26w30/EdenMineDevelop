@@ -1,0 +1,8 @@
+name: LastSeen
+version: 0.1
+main: org.ik26w30.edenmine.lastseen.LastSeen
+author: Ik26w30
+description: idk
+website: https://www.edenmine.eu
+commands:
+  lastseen:
