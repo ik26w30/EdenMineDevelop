@@ -11,7 +11,7 @@ import java.util.Calendar;
 import java.util.TimeZone;
 import java.util.UUID;
 
-public class DatabaseUtils { //dove sta l'update?
+public class DatabaseUtils { 
 
     public boolean playerAlreadyExist(UUID player){
         try {
